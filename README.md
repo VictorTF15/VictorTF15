@@ -9,24 +9,21 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy [Tu Nombre]</h1></summary>
+    <summary><h1 style="display: inline-block">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Victor</h1></summary>
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
+
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Desarrollador Full Stack | Creador de Soluciones</h2></summary>
+    <summary><h2 style="display: inline-block">Desarrollador Fronted | Creador de Soluciones</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%92%BB;Siempre+Aprendiendo+%F0%9F%93%9A;Creando+el+Futuro+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desarrollador+Fronted+%F0%9F%9A%80;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%92%BB;Siempre+Aprendiendo+%F0%9F%93%9A;Creando+el+Futuro+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
 
@@ -37,13 +34,12 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre Mí...***
 
-✔ 🔭 Actualmente trabajando en **[Tu Proyecto Destacado]**  
-✔ 🌱 Aprendiendo sobre **[Nuevas Tecnologías]**  
-✔ 👯 Buscando colaborar en **Proyectos Open Source**  
+✔ 🔭 Actualmente trabajando en **YANKUILOTL**  
+✔ 🌱 Aprendiendo sobre **Tecnologías en la nube**  
 ✔ 💬 Pregúntame sobre **JavaScript, Python, React, Node.js**  
-✔ 📫 Contáctame: **tuemail@ejemplo.com**  
+✔ 📫 Contáctame: **victortoxfl@gmail.com**  
 ✔ ⚡ Dato curioso: **¡Me encanta el código limpio y el café! ☕**  
-✔ 🎯 Objetivo 2026: **Contribuir más a la comunidad open source**  
+✔ 🎯 Objetivo 2026: **Contribuir más con la comunidad**  
 
 <br><br>
 
@@ -86,7 +82,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorTF15&theme=dark&show_icons=true&count_private=true" />
+ 
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorTF15&theme=dark&hide_border=false" /> 
 </td>
@@ -101,7 +97,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=VictorTF15&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
   </a>
 </div>
 <!--- trophy (end) -->
@@ -118,8 +114,9 @@
 
 ## 📈 Gráfico de Actividad
 
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorTF15&theme=react-dark&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorTF15&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <br/>
